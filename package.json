@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "1.0.1",
+  "description": "This is the authentication project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesanjaysubedi/nodejsAuth.git"
+  },
+  "author": "Sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesanjaysubedi/nodejsAuth/issues"
+  },
+  "homepage": "https://github.com/thesanjaysubedi/nodejsAuth#readme",
+  "dependencies": {
+    "mongoose": "^6.8.3"
+  }
+}
